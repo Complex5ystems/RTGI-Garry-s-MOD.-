@@ -11,4 +11,4 @@ Making a classic game look stunning without impacting its atmosphere.
 > This is in MASSIVE beta, it currently has no<br>
 > world editing mechanics or a custom physics gun.<br>
 > Currently we are working on optimising the RTGI engine<br>
-> for live physics required and used by Garry's mod.
+> for the live physics required and used by Garry's mod.
