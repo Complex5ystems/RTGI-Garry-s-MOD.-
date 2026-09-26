@@ -3,8 +3,9 @@
 Rewriting Garry's Mod from scratch on the UBGE engine for raytraced global illumination.
 Making a classic game look stunning without impacting its atmosphere.
 <p align="left">
-<img width="49%" height="410" alt="gallery2" src="https://github.com/user-attachments/assets/ec034bd2-7e58-4e31-b8f3-ac9b40b35453" />
-<img width="49%" height="410" alt="gallery3" src="https://github.com/user-attachments/assets/e6efdd6c-d46b-4231-b92c-b9f04252fb64" />
+<img width="49%" height="410" alt="Screenshot 2026-09-26 at 18 37 34" src="https://github.com/user-attachments/assets/039f2593-d204-4c32-8d84-628f9fecfdc1" />
+<img width="49%" height="410" alt="Screenshot 2026-09-26 at 18 37 14" src="https://github.com/user-attachments/assets/ce5020d2-8f6f-45c8-9372-1bfc0b6950d5" />
+<img width="49%" height="410" alt="Screenshot 2026-09-26 at 18 36 47" src="https://github.com/user-attachments/assets/c891d023-9ddc-46de-ad96-a002c70222d1" />
 </p>
 
 ## Instructions
